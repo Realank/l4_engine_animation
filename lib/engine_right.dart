@@ -54,9 +54,10 @@ class EngineRight extends StatelessWidget {
   List<Widget> buildChildren() {
     List<Widget> children = [];
     children.add(buildShell());
-    children.add(buildCrankshaft());
     children.add(buildJacket(0, 1));
     children.add(buildCylinder());
+    children.add(buildCrankshaft());
+
     return children;
   }
 

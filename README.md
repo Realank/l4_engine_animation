@@ -1,6 +1,8 @@
 # l4_engine_animation
 
-A new Flutter application.
+An engine animation in flutter
+
+![](./demo.gif)
 
 ## Getting Started
 
